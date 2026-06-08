@@ -70,10 +70,10 @@ For a production system I would consider:
 | # | Question | Expected answer |
 |---|----------|-----------------|
 | 1 | What do students say about Jeffrey Meli's grading? | Tough grader; not curved except possibly for effort; 40% final exam; one review reports no calculator allowed on exam despite division problems |
-| 2 | Is attendance mandatory for any Business professor's courses? | Yes — Jeffrey Meli has mandatory attendance noted in at least two reviews |
-| 3 | Which professor has the highest overall quality rating according to reviews? | Should identify the professor with the highest average star rating from the retrieved review pages |
+| 2 | Is attendance mandatory for any Business professor's courses? | Yes — Jeffrey Meli, Raymond Ro, Eugene Kolker, and Sinja Leonelli all have mandatory attendance noted explicitly in multiple reviews |
+| 3 | Which professor has the highest overall quality rating according to reviews? | The system is unlikely to answer accurately because star ratings are stripped during PDF cleaning. If it responds at all, it should name Richard Hendler (consistently praised as "AMAZING" and "10/10" across many reviews) or Raymond Ro ("best professor, very caring for students") |
 | 4 | What complaints do students have about course organization at NYU Stern? | Meli reviews mention syllabus not following rubric, Brightspace showing old content, and last-minute exam notification |
-| 5 | What do students say about a professor's knowledge of the subject matter? | At least one review per professor should mention expertise; expected: mixed responses — some praised as knowledgeable, some criticized for poor delivery despite knowing content |
+| 5 | What do students say about a professor's knowledge of the subject matter? | Eugene Kolker is explicitly criticized in reviews for not keeping up with current AI/GenAI content; Richard Hendler is consistently praised as deeply knowledgeable and passionate about his field |
 
 ---
 
